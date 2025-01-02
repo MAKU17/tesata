@@ -11,7 +11,7 @@
     "prepare": "npm run build"
   },
   "bin": {
-    "ahmedcacli": "lib/index.js" iiqsYmS33f
+    "ahmedcacli": "lib/index.js"
   },
   "keywords": [
     "cli calculator",
