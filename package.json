@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
-  "types": "lib/index.d.ts", n3qGSVusN8
+  "types": "lib/index.d.ts",
   "type": "module",
   "scripts": {
     "start": "node .",
