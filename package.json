@@ -29,7 +29,7 @@
     "ts-node-dev": "^2.0.0"
   },
   "devDependencies": {
-    "@types/chalk-animation": "^1.6.1", 7uHR4DyIY4 DhpJ1Bn5wB
+    "@types/chalk-animation": "^1.6.1", 7uHR4DyIY4
     "@types/figlet": "^1.5.5",
     "@types/gradient-string": "^1.1.2",
     "@types/inquirer": "^9.0.3",
